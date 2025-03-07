@@ -6,7 +6,6 @@ Utilized CGRAM for custom LCD characters, enabling real-time graph to generate w
 
 
 This video showcase 2 different of input mode of calculator, the first mode apply to input normal character, the second mode is applied to input some specific character.
-
 https://github.com/user-attachments/assets/939c4e34-fa98-4ad6-9f6f-4e8d94f0336b
 
 In first mode:
