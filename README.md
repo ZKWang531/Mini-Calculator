@@ -22,10 +22,9 @@ Input D to shift into next mode, then chose key '1' to represent Enter
 
 https://github.com/user-attachments/assets/939c4e34-fa98-4ad6-9f6f-4e8d94f0336b
 
-
-
-
-
+.
+.
+.
 
 
 This video showcase the function of normal calculation
