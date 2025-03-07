@@ -33,5 +33,43 @@ This video showcase the function of normal calculation
 
 https://github.com/user-attachments/assets/42c649ee-9524-43cb-8681-c55402fd1c8f
 
+.
+
+.
+
+.
+
+This video show how to calculate the derivation of equation
+
+
+https://github.com/user-attachments/assets/7a183549-01e5-4c23-a6e6-fdf694c8ba86
+
+.
+
+.
+
+.
+
+This video show how to calculate the f(x) of equation
+
+https://github.com/user-attachments/assets/155f36b4-2119-4581-a79d-a69c3320f598
+
+.
+
+.
+
+.
+
+
+
+
+This video show how to draw the graph of equation
+
+https://github.com/user-attachments/assets/2572516a-d695-4128-8ab9-f19cc60e376a
+.
+
+.
+
+.
 
 
