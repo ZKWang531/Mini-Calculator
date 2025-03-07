@@ -4,6 +4,11 @@ Implemented dynamic equation graphing, floating-point arithmetic, number base co
 Designed a modular system architecture with independent input processing, computation, and display control modules.
 Utilized CGRAM for custom LCD characters, enabling real-time graph to generate with axis markers.
 
+.
+
+.
+
+.
 
 
 This video showcase 2 different of input mode of calculator, the first mode apply to input normal character, the second mode is applied to input some specific character.
